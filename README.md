@@ -19,5 +19,5 @@ I am a 2nd-year B.Tech student interested in AI and Machine Learning.
 
 ## Contact
 - GitHub: https://github.com/sindhumeenachethireddy
-- Email: your.email@example.com (replace with your email)
+- Email: 25311a1201@it.sreenidhi.edu.in
 - LinkedIn: https://www.linkedin.com/in/your-profile (optional)
